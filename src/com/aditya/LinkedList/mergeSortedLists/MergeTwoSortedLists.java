@@ -1,4 +1,6 @@
-package com.aditya.LinkedList;
+package com.aditya.LinkedList.mergeSortedLists;
+
+import com.aditya.LinkedList.ListNode;
 
 /**
  * https://leetcode.com/problems/merge-two-sorted-lists/
