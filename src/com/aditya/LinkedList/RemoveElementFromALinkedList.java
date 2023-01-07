@@ -1,4 +1,4 @@
-package com.aditya.Beginner;
+package com.aditya.LinkedList;
 
 /**
  * This question aims at removing all elements==target from the source linkedList
