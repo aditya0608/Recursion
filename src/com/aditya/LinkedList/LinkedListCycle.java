@@ -14,7 +14,7 @@ package com.aditya.LinkedList;
  * During the traversal if the pointers coincide means a cycle is present
  * We can implement this both recursively and iteratively
  * Time Complexity for both is O(N)
- * Space Complexity is O(N) for iterative approach and O(N) for recursive due to stack space
+ * Space Complexity is O(1) for iterative approach and O(N) for recursive due to stack space
  */
 public class LinkedListCycle {
 
